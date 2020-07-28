@@ -4,3 +4,4 @@ Welcome! This is a repository you can safely make commits to and play around wit
 
 Test
 
+Master is different from branch
